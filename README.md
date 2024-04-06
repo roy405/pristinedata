@@ -12,12 +12,12 @@ Users can upload data files in .csv or .xlsx format.
 The system validates the file format upon upload and rejects unsupported formats.
 
 ### Data Cleaning and Conversion:
-Automatically detect and convert column data types (e.g., numeric, boolean, datetime, complex numbers, text, and categories).
-Handle missing values, converting them to a uniform representation (e.g., NaN).
-Normalize date formats across the data set.
-Detect and convert boolean values represented as text (e.g., "True" to True).
-Process numeric data, differentiating between integers and floats.
-Identify and process complex numbers represented in text.
+- Automatically detect and convert column data types (e.g., numeric, boolean, datetime, complex numbers, text, and categories).
+- Handle missing values, converting them to a uniform representation (e.g., NaN).
+- Normalize date formats across the data set.
+- Detect and convert boolean values represented as text (e.g., "True" to True).
+- Process numeric data, differentiating between integers and floats.
+- Identify and process complex numbers represented in text.
 
 ### Data Output:
 Display the cleaned and converted data within the web interface for review.
@@ -31,7 +31,7 @@ Support navigation between the upload page, processed data review page, an about
 Display informative error messages for unsupported file formats or upload failures.
 Provide feedback on data processing issues or conversion errors.
 
-##Technology Stack
+## Technology Stack
 
 ### Backend:
 
