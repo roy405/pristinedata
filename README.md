@@ -31,22 +31,29 @@ Support navigation between the upload page, processed data review page, an about
 Display informative error messages for unsupported file formats or upload failures.
 Provide feedback on data processing issues or conversion errors.
 
+## Conversion Engine Flow-Chart:
+
+![PristineData drawio](https://github.com/roy405/pristinedata/assets/25080286/5086bd08-6400-4d62-adbb-0b1a55070bcb)
+
 ## Technology Stack
 
 ### Backend:
-
 - Django Rest Framework: Used for creating RESTful APIs to handle file uploads, data processing, and the provision of processed data to the front end.
 - Python Pandas: Utilized for data manipulation and cleaning tasks, including detecting data types, handling missing values, and converting data formats.
 - Python: Core programming language for server-side logic.
-Frontend:
 
+### Frontend:
 - ReactJS: A JavaScript library for building the user interface, particularly for creating dynamic single-page applications.
 - React Router: Manages navigation between different components of the web application, enabling a seamless user experience without page reloads.
 - Tailwind CSS: A utility-first CSS framework for designing custom user interfaces with minimal effort.
-Development Tools:
-
+- 
+### Development Tools:
 - Git: Version control system for tracking changes in the source code during development.
 - GitHub: Hosts the project repository, facilitating code reviews, issue tracking, and collaboration between developers.
+
+## System Diagram:
+![Pythonman](https://github.com/roy405/pristinedata/assets/25080286/327fe619-d8b5-4421-97d1-34c644daada8)
+
 
 ## Getting Started
 ### Prerequisites
