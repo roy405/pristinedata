@@ -1,0 +1,11 @@
+Name,Birthdate,Score,Attendance,Grade,ComplexNumber,RegistrationDate,PartialScore,IsActive,Comments
+Alice,01/01/1990,90,22/30,A,1+2j,2020-01-02,85,True,"Excellent student"
+Bob,1991-Feb-2,75%,20/30,B,,02/03/2020,,False,"Needs improvement"
+Charlie,"03-03-1992",85,,A,3+4i,,Partial,True,"Consistent performance"
+David,1993/04/04,70.0,25/30,B,,April 5, 2020,,True
+Eve,"05-May-1994",N/A,28/30,A,2-3j,2020/05/06,50,False,"Outstanding performance"
+Frank,06/06/1995,Text,,"C",,-07-2020,40.5,True,"Incomplete record, check details"
+Grace,1996.07.07,"75",21/30,B,5+6j,2020-07-08,40.0,,
+Henry,"August 8, 1997",,23/30,A,,"08/08/2020",,False,"Frequently absent, needs follow-up"
+Ivy,09/09/1998,"82.5",27/30,C,,,"48.0",True,"Improved significantly this term"
+Jack,10-Oct-1999,90,,B,,10/2020,,,"Active in discussions"
