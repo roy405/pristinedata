@@ -1,0 +1,12 @@
+/* App.css */
+
+/* Keep only necessary global styles */
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+/* You can still use custom styles if they are specific and not provided by Tailwind */
+.read-the-docs {
+  color: #888;
+}
+
