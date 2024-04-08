@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global styles can be kept if they are not conflicting with Tailwind */
+:root {
+  --blue: #1fb6ff;
+  --purple: #7e5bef;
+  --pink: #ff49db;
+  --orange: #ff7849;
+  --green: #13ce66;
+  --yellow: #ffc82c;
+  --gray-dark: #273444;
+  --gray: #8492a6;
+  --gray-light: #d3dce6;
+}
+
+/* Custom keyframes and other global styles can remain if needed */
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
